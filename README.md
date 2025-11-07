@@ -114,14 +114,7 @@ The app stores logs in `daily_schedule_tracking.csv` with the following columns:
 * 🧮 Auto statistics (e.g., punctuality score)
 * ☁️ Cloud-based database (SQLite/PostgreSQL)
 
----
-
-## 🧑‍💻 Author
-
-**Sai Krishna Vadali**
-📧 *[[your-email@example.com](mailto:your-email@example.com)]*
 🌐 *Built with ❤️ using Flask and Pandas*
-
 ---
 
 ## 📜 License
